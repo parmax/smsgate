@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/bit4bit/gami"
-	"github.com/xlab/at/sms"
-	"github.com/xlab/at/util"
+	"github.com/stas2k/at/sms"
+	"github.com/stas2k/at/util"
 	"net/textproto"
 	"strings"
 )
